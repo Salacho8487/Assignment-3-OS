@@ -1,1 +1,3 @@
-# Assignment-3-OS
+El programa funciona así de simple: el HEAD, o sea la posición inicial del cabezal, se pasa como parámetro cuando ejecutas el código por consola. Desde el archivo C++ también puedes cambiar manualmente el orden de los requests o ajustar el límite físico del disco si quieres hacer pruebas más personalizadas. Igual, la función principal del programa es trabajar con mil posiciones generadas aleatoriamente. Cuando termina, el mismo C++ llama un script en Python, que se encarga de leer los archivos CSV generados y producir las gráficas de cada algoritmo. También se incluyen imágenes de los ejemplos del punto uno del taller, pero generadas directamente con este programa.
+
+Nota: para que todo esto funcione, necesita tener Python instalado y las librerías necesarias (como matplotlib) para poder correr el script de graficación.
